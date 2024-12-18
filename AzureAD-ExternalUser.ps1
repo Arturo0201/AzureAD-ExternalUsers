@@ -14,7 +14,7 @@ do {
 
         'inviteeEmail'= $GuestEmail
         'inviteRedirectURL'= $RedirectURL
-        'customizedMessageBody'= "Welcome to GMV!!"
+        'customizedMessageBody'= "Welcome to ***!!"
     }
     
 } while ($true)
